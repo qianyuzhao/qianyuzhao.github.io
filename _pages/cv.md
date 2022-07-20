@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Resource Recycling Science and Engineering, Nankai University, 2019
+* Bachelor of Finance, Nankai University, 2019
+* Master of Science in Civil and Environmental Engineering, Duke University, 2021
+* Master of Engineering Management, Duke University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Intern
+  * Bank of China International(China) CO,. LTD.
+  * Duties included: Stock quantitative technical analysis
+  * Supervisor: Tao Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2017: Intern
+  * China Construction Bank
+  * Duties included: Data cleaning, data analysis
+  * Supervisor: Mrs Ying
+
+* Summer 2016: Manager Assistant Intern
+  * Tianjin Qian’an Investment Management Co., Ltd
+  * Duties included: Design financial pricing strategies
+  * Supervisor: Xuefeng Cai
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * SAS
+  * R
+  * C++
+  * Matlab
+* Frameworks
+  * Scikit
+  * TensorFlow
+  * Keras
+* Tools
+  * SPSS
+  * Microsoft Office
 
 Publications
 ======
@@ -56,4 +69,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer, Food Bank of Central & Eastern North Carolina
+* Volunteer Teacher, Promotion of Environmental Protection Class, Xianshuigu No.5 Primary School
+* Volunteer, Fundraising for School Children in Poverty, Tianjin
+* Director, Mathematical Modeling Association, Nankai University
+* Organizer, Student Liaison Activities, Nankai University
