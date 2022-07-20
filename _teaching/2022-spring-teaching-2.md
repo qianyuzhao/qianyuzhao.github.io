@@ -10,33 +10,26 @@ location: "Waco, TX, USA"
 
 This course is to expose students to concepts of scientific sampling, data analysis and presentation and introduce students to basic envrionmental sampling techniques.
 
+Course content
+
 Lab Safety
 
 Human Demographics
 
 Mayborn Museum Tour
-======
 
 Sustainability
-======
 
 Modeling of a Lake Ecosystem
-======
 
 Cameron Park Zoo Tour
-======
 
 Lake Waco Wetlands Tour
-======
 
 Energy in the Environment
-======
 
 Sound Pollution
-======
 
 Acid Rain
-======
 
 Water Pollution
-======
