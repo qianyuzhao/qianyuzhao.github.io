@@ -1,7 +1,7 @@
 ---
 title: "Aboveground Storage Tank Detection Using Faster R-CNN and High-Resolution Aerial Imagery"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/AST_detection
 excerpt: 'In this study, an effort was made to locate aboveground storage tanks from remotely sensed imagery. A dataset that identifies different types of tanks was generated. '
 date: 2021-05-01
 venue: 'Master Dissertation'
