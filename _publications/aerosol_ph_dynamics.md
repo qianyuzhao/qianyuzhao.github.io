@@ -1,15 +1,15 @@
 ---
 title: "Aerosol pH Dynamics During Haze Periods in an Urban Environment in China: Use of Detailed, Hourly, Speciated Observations to Study the Role of Ammonia Availability and Secondary Aerosol Formation and Urban Environment"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+permalink: /publication/aerosol_ph_dynamics
+excerpt: 'In this study, we found high acidy (pH < 3), light pollution (total water soluble ions < 30 μg/m3), and low water content (less than 5 μg/m3) were more correlated with higher rates of sulfate formation than nitrate formation in the winter.'
+date: 2019-07-08
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'http://qianyuzhao.github.io/files/aerosol_ph_dynamics.pdf'
+citation: 'Shi, G., Xu, J., Shi, X., Liu, B., Bi, X., Xiao, Z., ... & Russell, A. G. (2019). Aerosol pH dynamics during haze periods in an urban environment in China: Use of detailed, hourly, speciated observations to study the role of ammonia availability and secondary aerosol formation and urban environment. Journal of Geophysical Research: Atmospheres, 124(16), 9730-9742.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this study, we found high acidy (pH < 3), light pollution (total water soluble ions < 30 μg/m3), and low water content (less than 5 μg/m3) were more correlated with higher rates of sulfate formation than nitrate formation in the winter.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://qianyuzhao.github.io/files/aerosol_ph_dynamics.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Shi, G., Xu, J., Shi, X., Liu, B., Bi, X., Xiao, Z., ... & Russell, A. G. (2019). Aerosol pH dynamics during haze periods in an urban environment in China: Use of detailed, hourly, speciated observations to study the role of ammonia availability and secondary aerosol formation and urban environment. Journal of Geophysical Research: Atmospheres, 124(16), 9730-9742.
