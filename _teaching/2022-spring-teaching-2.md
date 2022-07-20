@@ -10,7 +10,7 @@ location: "Waco, TX, USA"
 
 This course is to expose students to concepts of scientific sampling, data analysis and presentation and introduce students to basic envrionmental sampling techniques.
 
-Course content
+Course Content:
 
 Lab Safety
 
