@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: ["Aboveground Storage Tank Detection Using Faster R-CNN and High-Resolution Aerial Imagery"](https://www.proquest.com/docview/2542509555?pq-origsite=gscholar&fromopenview=true)
 collection: publications
-permalink: [/publication/2010-10-01-paper-title-number-2](https://www.proquest.com/docview/2542509555?pq-origsite=gscholar&fromopenview=true)
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://www.proquest.com/docview/2542509555?pq-origsite=gscholar&fromopenview=true
+excerpt: 'In this study, an effort was made to locate aboveground storage tanks from remotely sensed imagery. A dataset that identifies different types of tanks was generated. '
+date: 2021-05-01
+venue: 'Master Dissertation'
+paperurl: 'http://qianyuzhao.github.io/files/AST_detection.pdf'
+citation: 'Zhao, Q. (2021). Aboveground Storage Tank Detection Using Faster R-CNN and High-Resolution Aerial Imagery (Master dissertation, Duke University).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this study, an effort was made to locate aboveground storage tanks from remotely sensed imagery. A dataset that identifies different types of tanks was generated.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://qianyuzhao.github.io/files/AST_detection.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Zhao, Q. (2021). Aboveground Storage Tank Detection Using Faster R-CNN and High-Resolution Aerial Imagery (Master dissertation, Duke University).
