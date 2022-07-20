@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Using High-Temporal-Resolution Ambient Data to Investigate Gas-Particle Partitioning of Ammonium over Different Seasons"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://pubs.acs.org/doi/full/10.1021/acs.est.9b07302?casa_token=E524UONqRDYAAAAA%3A9fAaVK8a3cyPGy1gWZwzWDdT-Ir_6v_vMdhtDUggDL6EWw5jjtN-O8VKlLpBnMlHHFXWtyF5SpyX
+excerpt: 'This paper is about gas-particle partitioning of ammonia in the inorganic aerosols. It is the first time that we created the joint source-NH3/HNO3 maps to integrate sources, aerosol pH and liquid water content, and ions (altogether in one map), which can provide useful information for designing effective strategies to control particulate matter pollution.'
+date: 2020-07-17
+venue: 'Environmental Science & Technology'
+paperurl: 'http://qianyuzhao.github.io/files/NH4paper.pdf'
+citation: 'Zhao, Q., Nenes, A., Yu, H., Song, S., Xiao, Z., Chen, K., ... & Russell, A. G. (2020). Using High-Temporal-Resolution Ambient Data to Investigate Gas-Particle Partitioning of Ammonium over Different Seasons. Environmental Science & Technology, 54(16), 9834-9843.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about gas-particle partitioning of ammonia in the inorganic aerosols. It is the first time that we created the joint source-NH3/HNO3 maps to integrate sources, aerosol pH and liquid water content, and ions (altogether in one map), which can provide useful information for designing effective strategies to control particulate matter pollution.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://qianyuzhao.github.io/files/NH4paper.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Zhao, Q., Nenes, A., Yu, H., Song, S., Xiao, Z., Chen, K., ... & Russell, A. G. (2020). Using High-Temporal-Resolution Ambient Data to Investigate Gas-Particle Partitioning of Ammonium over Different Seasons. Environmental Science & Technology, 54(16), 9834-9843.
