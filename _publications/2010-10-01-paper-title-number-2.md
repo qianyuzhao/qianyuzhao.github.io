@@ -1,5 +1,5 @@
 ---
-title: ["Aboveground Storage Tank Detection Using Faster R-CNN and High-Resolution Aerial Imagery"](https://www.proquest.com/docview/2542509555?pq-origsite=gscholar&fromopenview=true)
+title: "Aboveground Storage Tank Detection Using Faster R-CNN and High-Resolution Aerial Imagery"
 collection: publications
 permalink: https://www.proquest.com/docview/2542509555?pq-origsite=gscholar&fromopenview=true
 excerpt: 'In this study, an effort was made to locate aboveground storage tanks from remotely sensed imagery. A dataset that identifies different types of tanks was generated. '
