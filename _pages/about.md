@@ -12,5 +12,5 @@ I received my Master's degree from the Pratt School of Engineering, Duke Univers
 
 Prior to my master, I received my Bachelor's degree from Nankai University. I worked in the atmospheric group to investigate inorganic aerosols, advised by Prof. Guoliang Shi. 
 
-My research interests are in machine learning and statistical models applications in biological, medical, remote sensing data. 
+My research interests are in air quality, atmospheric modeling, machine learning and statistical models applications in environmental, medical, remote sensing data. 
 
