@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my Master's degree from the Pratt School of Engineering, Duke University, where I was fortunate to work with Prof. Mark Borsuk. My thesis was about Aboveground tank detection from high-resolution imagery. 
+I am a PhD student at the University of Illinois at Urbana-Champaign (UIUC), where I am dedicated to advancing research in the fields of hydrology, water quality modeling, machine learning, and statistical model applications for environmental data.
 
-Prior to my master, I received my Bachelor's degree from Nankai University. I worked in the atmospheric group to investigate inorganic aerosols, advised by Prof. Guoliang Shi. 
+Prior to my doctoral studies, I earned my Master's degree from the Pratt School of Engineering at Duke University. Under the guidance of Prof. Mark Borsuk, I conducted research on aboveground tank detection using high-resolution imagery, which culminated in my thesis.
 
-My research interests are in air quality, atmospheric modeling, machine learning and statistical models applications in environmental, medical, remote sensing data. 
+Before pursuing my Master's degree, I completed my Bachelor's degree at Nankai University. As an undergraduate, I had the privilege of working in the atmospheric group led by Prof. Guoliang Shi, focusing on the investigation of inorganic aerosols.
+
+My passion for research is driven by the potential to develop innovative solutions that address pressing environmental and health challenges. By leveraging advanced computational techniques and data-driven approaches, I strive to make meaningful contributions to the scientific community and society at large. 
 
