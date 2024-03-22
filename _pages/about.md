@@ -16,4 +16,4 @@ Before pursuing my Master's degree, I completed my Bachelor's degree at Nankai U
 
 My passion for research is driven by the potential to develop innovative solutions that address pressing environmental and health challenges. By leveraging advanced computational techniques and data-driven approaches, I strive to make meaningful contributions to the scientific community and society at large. 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RjW0GkMBQkg9kO1GoIg4QcRy4ohJUskpuL6ePY2OalM"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=RjW0GkMBQkg9kO1GoIg4QcRy4ohJUskpuL6ePY2OalM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
