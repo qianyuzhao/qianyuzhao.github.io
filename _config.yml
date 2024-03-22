@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Qianyu Zhao"
   avatar           : "profile.png"
-  bio              : "Master of Science in Civil and Environmental Engineering at Duke"
-  location         : "TX, USA"
+  bio              : "PhD student at the University of Illinois at Urbana-Champaign"
+  location         : "IL, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/qianyuzhao"
+  github           : "qianyuzhao"
   google_plus      :
   keybase          :
   instagram        :
