@@ -27,6 +27,7 @@ My research is motivated by a commitment to addressing pressing environmental an
 ## News
 
 <ul>
+  <li><strong>[2025/06]</strong> A proposal was approved from Illinois-Indiana Sea Grant </li>
   <li><strong>[2025/05]</strong> I gave a oral presentation at Society for Freshwater Science 2025 Annual Meeting about: <em><a href="https://sfs-2025.p.asnevents.com.au/days/2025-05-22/abstract/117764">How Do Anthropogenic Activity and Hydrological Variability Control the Spatiotemporal Patterns of Nitrogen and Phosphorus Export in the Mississippi/Atchafalaya River Basin?</a></em> </li>
   <li><strong>[2024/12]</strong> I gave a poster presentation at AGU2024 Annual Meeting about: <em><a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1759854">Spatio-temporal Changes and Driving Factors of Riverine Nitrogen Export in an Agriculture-dominated Watershed: the Illinois River Basin</a></em> </li>
 </ul>
