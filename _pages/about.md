@@ -24,5 +24,10 @@ My research is motivated by a commitment to addressing pressing environmental an
   <li><strong>Hydrology Modeling</strong>: Large Scale Water Balance Modeling.</li>
 </ul>
 
+## News
+
+<ul>
+  <li><strong>[2025/05]</strong> I gave a oral presentation at <em><a href="https://freshwater-science.org/annual-meeting">Society for Freshwater Science 2025 Annual Meeting about: How Do Anthropogenic Activity and Hydrological Variability Control the Spatiotemporal Patterns of Nitrogen and Phosphorus Export in the Mississippi/Atchafalaya River Basin? </a></em>.</li>
+</ul>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=RjW0GkMBQkg9kO1GoIg4QcRy4ohJUskpuL6ePY2OalM&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
